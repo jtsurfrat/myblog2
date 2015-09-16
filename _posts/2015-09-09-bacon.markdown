@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Welcome to Jerkyll!"
+date:   2015-09-09 13:46:29
+categories: jekyll update
+author: Brad
+meta: This is my meta
+---
+
+Hi, I love code and Bacon!!
+
+# This is h1
+## This is h2
+### This is h3
+
+- Item 1
+- Item 2 
+
+This is a paragraph.
+{% include media.html %}
+
+This is another. 
+
+Html is for losers a[link](http://www.google.com).
+
+1. Item
+1. Item
+1. Item
+
+Today is {{page.date}} I am {{page.author}}
+THE Title is {{page.title}}
+
